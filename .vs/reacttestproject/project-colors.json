@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c0d090bc-62d7-4013-80b7-938fd42e6536": {
+      "ProjectGuid": "c0d090bc-62d7-4013-80b7-938fd42e6536",
+      "DisplayName": "reacttestproject-backend",
+      "ColorIndex": 0
+    },
+    "834c204f-0dde-41aa-9424-2dfff41f2df4": {
+      "ProjectGuid": "834c204f-0dde-41aa-9424-2dfff41f2df4",
+      "DisplayName": "reacttestproject",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
